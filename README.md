@@ -24,6 +24,11 @@
 <br>
 <br>
 
+> ⚠️  Better to do this in a VM ⚠️
+
+<br>
+<br>
+
 1. make sure no application named __`Windows Explorer.exe`__ is present in location __`%AppData%`__ of your _Windows instance_.
 
 2. make sure the __VIRUS & THREAT PROTECTION__ is turned off for this to work.
@@ -88,3 +93,10 @@ In one my classes, we were talking about Keyloggers and hence I made a demo on i
 <br>
 
 ---
+
+<br>
+<br>
+
+### Implementation 📹
+
+- Thank you 🙏 [uzu](https://www.youtube.com/@uzumakiuchiha7678/featured) for the implementation [here](https://www.youtube.com/watch?v=22sA9KCdtsU)
