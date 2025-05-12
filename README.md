@@ -1,4 +1,4 @@
-# qwertyCapture-demo 👺
+# qwertyCapture-lite 👺
 
 <br>
 <br>
