@@ -6,7 +6,7 @@ from colorama import Fore, Style
 import pyfiglet as pyg  
 
 
-res= pyg.figlet_format("qwertyCapture-demo")
+res= pyg.figlet_format("qwertyCapture-lite")
 print(Fore.YELLOW + res)  
 print(Fore.MAGENTA +  "\n\nAuthor:\thail0hydra")
 print(Style.RESET_ALL)
