@@ -36,7 +36,7 @@
 3. git clone 🤡 this repo or download it:
     
     ```cmd
-    git clone https://github.com/hail0hydra/qwertyCapture-demo.git
+    git clone https://github.com/hail0hydra/qwertyCapture-lite.git
     ```
 
 4. Go inside the directory and make a venv 🔽 :
